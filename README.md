@@ -55,15 +55,6 @@ Built with a modern stack and designed with simplicity in mind, Miss-Match aims 
 
    * For Android: `npm run android`
    * For iOS: `npm run ios`
-
----
-
-## 📸 Screenshots (Optional)
-
-| Home Screen              | Match Screen               | Chat Screen              |
-| ------------------------ | -------------------------- | ------------------------ |
-| ![Home](assets/home.png) | ![Match](assets/match.png) | ![Chat](assets/chat.png) |
-
 ---
 
 ## 👥 Team Miss-Match
