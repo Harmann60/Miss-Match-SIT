@@ -1,7 +1,7 @@
 # 💘 Miss-Match-SIT
 
 > A fun, intelligent, and college-exclusive dating app — where *mismatches* make the best matches!
-> Built by **Harman** and **Dhrubajeet** at **Symbiosis Institute of Technology (SIT)**.
+> Built by **Harman** and **Dhrubajeet**.
 
 ---
 
@@ -101,4 +101,5 @@ This project is **for educational and experimental use only**
 ---
 
 ### ❤️ Made with love
+
 
