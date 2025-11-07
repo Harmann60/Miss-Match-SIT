@@ -75,10 +75,10 @@ Make sure your Android app points to this API URL during development.
 
 ## 🧑‍💻 Contributors
 
-| Name           | Role                                           |
-| -------------- | ---------------------------------------------- |
-| **Harman**     | Android Developer / UI Designer                |
-| **Dhrubajeet** | Backend Developer (Flask) / Database Architect |
+| Name               | Role                                           |
+| --------------     | ---------------------------------------------- |
+| **Dhrubajeet**     | Android Developer / UI Designer                |
+| **Harman**         | Backend Developer (Flask) / Database Architect |
 
 ---
 
@@ -101,5 +101,6 @@ This project is **for educational and experimental use only**
 ---
 
 ### ❤️ Made with love
+
 
 
