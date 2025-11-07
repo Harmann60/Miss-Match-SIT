@@ -94,13 +94,13 @@ This project is **for educational and experimental use only**
 ---
 
 ## 🌐 Connect With Us
-
-💌 Email: **[team.missmatchsit@gmail.com](mailto:team.missmatchsit@gmail.com)**
-🐙 GitHub: [@Harmann60](https://github.com/Harmann60) | [@Dhrubajeet](#)
+🐙 GitHub: [@Harmann60](https://github.com/Harmann60) |
+            [@Dhrubajeet](https://github.com/Dhrubajit-cmd)
 
 ---
 
 ### ❤️ Made with love
+
 
 
 
